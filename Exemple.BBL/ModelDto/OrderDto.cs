@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exemple.BBL.ModelDto
+namespace Exemple.BLL.ModelDto
 {
     public class OrderDto
     {

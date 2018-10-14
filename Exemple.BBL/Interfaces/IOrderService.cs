@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Exemple.BBL.ModelDto;
+using Exemple.BLL.ModelDto;
 
-namespace Exemple.BBL.Interfaces
+namespace Exemple.BLL.Interfaces
 {
     public interface IOrderService
     {

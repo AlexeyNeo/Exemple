@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exemple.BBL.Infrastructure
+namespace Exemple.BLL.Infrastructure
 {
     public class ValidationException : Exception
     {
